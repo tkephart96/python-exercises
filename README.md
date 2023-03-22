@@ -1,2 +1,2 @@
 # python-exercises
-Repo for python exercises
+Practice python and jupyter notebook
